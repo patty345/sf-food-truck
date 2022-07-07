@@ -25,6 +25,8 @@ function App() {
           <Popup position={[+truck.location.latitude, +truck.location.longitude]}>
           <div>
             <h2>{"Name: " + truck.applicant}</h2>
+            <p>{"Food: " + truck.fooditems}</p>
+            <p>{"Address: " + truck.address}</p>
           </div>
           </Popup>
         </Marker>
