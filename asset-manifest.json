@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/patty345/sf-food-truck/static/css/main.3b372717.css",
+    "main.js": "/patty345/sf-food-truck/static/js/main.b23238f5.js",
+    "static/js/787.21db0735.chunk.js": "/patty345/sf-food-truck/static/js/787.21db0735.chunk.js",
+    "index.html": "/patty345/sf-food-truck/index.html",
+    "main.3b372717.css.map": "/patty345/sf-food-truck/static/css/main.3b372717.css.map",
+    "main.b23238f5.js.map": "/patty345/sf-food-truck/static/js/main.b23238f5.js.map",
+    "787.21db0735.chunk.js.map": "/patty345/sf-food-truck/static/js/787.21db0735.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b372717.css",
+    "static/js/main.b23238f5.js"
+  ]
+}
