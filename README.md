@@ -2,7 +2,7 @@
 
 Github: https://github.com/patty345/sf-food-truck
 
-Deployed App: 
+Deployed App: https://patty345.github.io/sf-food-truck/
 
 ## Description
 Displays markers on map of San Francisco using a JSON data
