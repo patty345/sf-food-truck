@@ -1,6 +1,7 @@
 # React Food Truck Map
 
 Github: https://github.com/patty345/sf-food-truck
+
 Deployed App: 
 
 ## Description
